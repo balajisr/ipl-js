@@ -1,0 +1,1227 @@
+[
+    {
+        "id": "m1",
+        "seasonId": "s1",
+        "totalOvers": 20,
+        "priority": "semifinal",
+        "innings2": {
+            "teamId": "t2",
+            "teamName": "Delhi Capitals",
+            "score": 87,
+            "wickets": 10,
+            "overs": 16.1
+        },
+        "innings1": {
+            "teamId": "t8",
+            "teamName": "Rajasthan Royals",
+            "score": 192,
+            "wickets": 9,
+            "overs": 20
+        },
+        "matchStatus": "win",
+        "venueId": "v3",
+        "date": "30/05/2008",
+        "time": "14:30"
+    },
+    {
+        "id": "m2",
+        "seasonId": "s1",
+        "totalOvers": 20,
+        "priority": "semifinal",
+        "innings1": {
+            "teamId": "t6",
+            "teamName": "Punjab Kings",
+            "score": 112,
+            "wickets": 8,
+            "overs": 20
+        },
+        "innings2": {
+            "teamId": "t7",
+            "teamName": "Chennai Super Kings",
+            "score": 116,
+            "wickets": 1,
+            "overs": 14.5
+        },
+        "matchStatus": "win",
+        "venueId": "v3",
+        "date": "31/05/2008",
+        "time": "14:30"
+    },
+    {
+        "id": "m3",
+        "seasonId": "s1",
+        "totalOvers": 20,
+        "priority": "final",
+        "innings1": {
+            "teamId": "t7",
+            "teamName": "Chennai Super Kings",
+            "score": 163,
+            "wickets": 5,
+            "overs": 20
+        },
+        "innings2": {
+            "teamId": "t8",
+            "teamName": "Rajasthan Royals",
+            "score": 164,
+            "wickets": 7,
+            "overs": 20
+        },
+        "matchStatus": "win",
+        "venueId": "v4",
+        "date": "01/06/2008",
+        "time": "20:00"
+    },
+    {
+        "id": "m4",
+        "seasonId": "s2",
+        "totalOvers": 20,
+        "priority": "semifinal",
+        "innings1": {
+            "teamId": "t2",
+            "teamName": "Delhi Capitals",
+            "score": 153,
+            "wickets": 8,
+            "overs": 20
+        },
+        "innings2": {
+            "teamId": "t9",
+            "teamName": "Deccan Chargers",
+            "score": 154,
+            "wickets": 4,
+            "overs": 17.4
+        },
+        "matchStatus": "win",
+        "venueId": "v5",
+        "date": "22/05/2009",
+        "time": "14:30"
+    },
+    {
+        "id": "m5",
+        "seasonId": "s2",
+        "totalOvers": 20,
+        "priority": "semifinal",
+        "innings1": {
+            "teamId": "t7",
+            "teamName": "Chennai Super Kings",
+            "score": 146,
+            "wickets": 5,
+            "overs": 20
+        },
+        "innings2": {
+            "teamId": "t4",
+            "teamName": "Royal Challengers Bangalore",
+            "score": 149,
+            "wickets": 4,
+            "overs": 18.5
+        },
+        "matchStatus": "win",
+        "venueId": "v6",
+        "date": "23/05/2009",
+        "time": "20:00"
+    },
+    {
+        "id": "m6",
+        "seasonId": "s2",
+        "totalOvers": 20,
+        "priority": "final",
+        "innings1": {
+            "teamId": "t9",
+            "teamName": "Deccan Chargers",
+            "score": 143,
+            "wickets": 6,
+            "overs": 20
+        },
+        "innings2": {
+            "teamId": "t4",
+            "teamName": "Royal Challengers Bangalore",
+            "score": 137,
+            "wickets": 9,
+            "overs": 20
+        },
+        "matchStatus": "win",
+        "venueId": "v6",
+        "date": "24/05/2009",
+        "time": "20:00"
+    },
+    {
+        "id": "m7",
+        "seasonId": "s3",
+        "totalOvers": 20,
+        "priority": "semifinal",
+        "innings1": {
+            "teamId": "t1",
+            "teamName": "Mumbai Indians",
+            "score": 184,
+            "wickets": 5,
+            "overs": 20
+        },
+        "innings2": {
+            "teamId": "t4",
+            "teamName": "Royal Challengers Bangalore",
+            "score": 149,
+            "wickets": 9,
+            "overs": 20
+        },
+        "matchStatus": "win",
+        "venueId": "v4",
+        "date": "21/04/2010",
+        "time": "20:00"
+    },
+    {
+        "id": "m8",
+        "seasonId": "s3",
+        "totalOvers": 20,
+        "priority": "semifinal",
+        "innings1": {
+            "teamId": "t7",
+            "teamName": "Chennai Super Kings",
+            "score": 142,
+            "wickets": 7,
+            "overs": 20
+        },
+        "innings2": {
+            "teamId": "t9",
+            "teamName": "Deccan Chargers",
+            "score": 104,
+            "wickets": 10,
+            "overs": 19.2
+        },
+        "matchStatus": "win",
+        "venueId": "v4",
+        "date": "22/04/2010",
+        "time": "20:00"
+    },
+    {
+        "id": "m9",
+        "seasonId": "s3",
+        "totalOvers": 20,
+        "priority": "final",
+        "innings1": {
+            "teamId": "t7",
+            "teamName": "Chennai Super Kings",
+            "score": 168,
+            "wickets": 5,
+            "overs": 20
+        },
+        "innings2": {
+            "teamId": "t1",
+            "teamName": "Mumbai Indians",
+            "score": 146,
+            "wickets": 9,
+            "overs": 20
+        },
+        "matchStatus": "win",
+        "venueId": "v4",
+        "date": "25/04/2010",
+        "time": "20:00"
+    },
+    {
+        "id": "m10",
+        "seasonId": "s4",
+        "totalOvers": 20,
+        "priority": "qualifier",
+        "innings1": {
+            "teamId": "t4",
+            "teamName": "Royal Challengers Bangalore",
+            "score": 174,
+            "wickets": 4,
+            "overs": 20
+        },
+        "innings2": {
+            "teamId": "t7",
+            "teamName": "Chennai Super Kings",
+            "score": 177,
+            "wickets": 4,
+            "overs": 19.4
+        },
+        "matchStatus": "win",
+        "venueId": "v3",
+        "date": "24/05/2011",
+        "time": "20:00"
+    },
+    {
+        "id": "m11",
+        "seasonId": "s4",
+        "totalOvers": 20,
+        "priority": "eliminator",
+        "innings1": {
+            "teamId": "t5",
+            "teamName": "Kolkata Knight Riders",
+            "score": 147,
+            "wickets": 7,
+            "overs": 20
+        },
+        "innings2": {
+            "teamId": "t1",
+            "teamName": "Mumbai Indians",
+            "score": 148,
+            "wickets": 6,
+            "overs": 19.2
+        },
+        "matchStatus": "win",
+        "venueId": "v3",
+        "date": "25/05/2011",
+        "time": "20:00"
+    },
+    {
+        "id": "m12",
+        "seasonId": "s4",
+        "totalOvers": 20,
+        "priority": "qualifier",
+        "innings1": {
+            "teamId": "t4",
+            "teamName": "Royal Challengers Bangalore",
+            "score": 185,
+            "wickets": 4,
+            "overs": 20
+        },
+        "innings2": {
+            "teamId": "t1",
+            "teamName": "Mumbai Indians",
+            "score": 142,
+            "wickets": 8,
+            "overs": 20
+        },
+        "matchStatus": "win",
+        "venueId": "v7",
+        "date": "27/05/2011",
+        "time": "20:00"
+    },
+    {
+        "id": "m13",
+        "seasonId": "s4",
+        "totalOvers": 20,
+        "priority": "final",
+        "innings1": {
+            "teamId": "t7",
+            "teamName": "Chennai Super Kings",
+            "score": 205,
+            "wickets": 5,
+            "overs": 20
+        },
+        "innings2": {
+            "teamId": "t4",
+            "teamName": "Royal Challengers Bangalore",
+            "score": 147,
+            "wickets": 8,
+            "overs": 20
+        },
+        "matchStatus": "win",
+        "venueId": "v7",
+        "date": "28/05/2011",
+        "time": "20:00"
+    },
+    {
+        "id": "m14",
+        "seasonId": "s5",
+        "totalOvers": 20,
+        "priority": "qualifier",
+        "innings1": {
+            "teamId": "t5",
+            "teamName": "Kolkata Knight Riders",
+            "score": 162,
+            "wickets": 4,
+            "overs": 20
+        },
+        "innings2": {
+            "teamId": "t2",
+            "teamName": "Delhi Capitals",
+            "score": 144,
+            "wickets": 8,
+            "overs": 20
+        },
+        "matchStatus": "win",
+        "venueId": "v8",
+        "date": "22/05/2012",
+        "time": "20:00"
+    },
+    {
+        "id": "m15",
+        "seasonId": "s5",
+        "totalOvers": 20,
+        "priority": "eliminator",
+        "innings1": {
+            "teamId": "t7",
+            "teamName": "Chennai Super Kings",
+            "score": 187,
+            "wickets": 5,
+            "overs": 20
+        },
+        "innings2": {
+            "teamId": "t1",
+            "teamName": "Mumbai Indians",
+            "score": 149,
+            "wickets": 9,
+            "overs": 20
+        },
+        "matchStatus": "win",
+        "venueId": "v1",
+        "date": "23/05/2012",
+        "time": "20:00"
+    },
+    {
+        "id": "m16",
+        "seasonId": "s5",
+        "totalOvers": 20,
+        "priority": "qualifier",
+        "innings1": {
+            "teamId": "t7",
+            "teamName": "Chennai Super Kings",
+            "score": 222,
+            "wickets": 5,
+            "overs": 20
+        },
+        "innings2": {
+            "teamId": "t2",
+            "teamName": "Delhi Capitals",
+            "score": 136,
+            "wickets": 5,
+            "overs": 16.5
+        },
+        "matchStatus": "win",
+        "venueId": "v7",
+        "date": "25/05/2012",
+        "time": "20:00"
+    },
+    {
+        "id": "m17",
+        "seasonId": "s5",
+        "totalOvers": 20,
+        "priority": "final",
+        "innings1": {
+            "teamId": "t7",
+            "teamName": "Chennai Super Kings",
+            "score": 190,
+            "wickets": 3,
+            "overs": 20
+        },
+        "innings2": {
+            "teamId": "t5",
+            "teamName": "Kolkata Knight Riders",
+            "score": 192,
+            "wickets": 5,
+            "overs": 19.4
+        },
+        "matchStatus": "win",
+        "venueId": "v7",
+        "date": "27/05/2012",
+        "time": "20:00"
+    },
+    {
+        "id": "m18",
+        "seasonId": "s5",
+        "totalOvers": 20,
+        "priority": "final",
+        "innings1": {
+            "teamId": "t7",
+            "teamName": "Chennai Super Kings",
+            "score": 190,
+            "wickets": 3,
+            "overs": 20
+        },
+        "innings2": {
+            "teamId": "t5",
+            "teamName": "Kolkata Knight Riders",
+            "score": 192,
+            "wickets": 5,
+            "overs": 19.4
+        },
+        "matchStatus": "win",
+        "venueId": "v7",
+        "date": "27/05/2012",
+        "time": "20:00"
+    },
+    {
+        "id": "m19",
+        "seasonId": "s6",
+        "totalOvers": 20,
+        "priority": "qualifier",
+        "innings1": {
+            "teamId": "t7",
+            "teamName": "Chennai Super Kings",
+            "score": 192,
+            "wickets": 1,
+            "overs": 20
+        },
+        "innings2": {
+            "teamId": "t1",
+            "teamName": "Mumbai Indians",
+            "score": 144,
+            "wickets": 10,
+            "overs": 18.4
+        },
+        "matchStatus": "win",
+        "venueId": "v9",
+        "date": "21/05/2013",
+        "time": "20:00"
+    },
+    {
+        "id": "m20",
+        "seasonId": "s6",
+        "totalOvers": 20,
+        "priority": "eliminator",
+        "innings1": {
+            "teamId": "t3",
+            "teamName": "Sunrisers Hyderabad",
+            "score": 132,
+            "wickets": 7,
+            "overs": 20
+        },
+        "innings2": {
+            "teamId": "t8",
+            "teamName": "Rajasthan Royals",
+            "score": 135,
+            "wickets": 6,
+            "overs": 20
+        },
+        "matchStatus": "win",
+        "venueId": "v9",
+        "date": "22/05/2013",
+        "time": "20:00"
+    },
+    {
+        "id": "m21",
+        "seasonId": "s6",
+        "totalOvers": 20,
+        "priority": "qualifier",
+        "innings1": {
+            "teamId": "t8",
+            "teamName": "Rajasthan Royals",
+            "score": 165,
+            "wickets": 6,
+            "overs": 20
+        },
+        "innings2": {
+            "teamId": "t1",
+            "teamName": "Mumbai Indians",
+            "score": 169,
+            "wickets": 6,
+            "overs": 19.5
+        },
+        "matchStatus": "win",
+        "venueId": "v10",
+        "date": "24/05/2013",
+        "time": "20:00"
+    },
+    {
+        "id": "m22",
+        "seasonId": "s6",
+        "totalOvers": 20,
+        "priority": "final",
+        "innings1": {
+            "teamId": "t1",
+            "teamName": "Mumbai Indians",
+            "score": 148,
+            "wickets": 9,
+            "overs": 20
+        },
+        "innings2": {
+            "teamId": "t7",
+            "teamName": "Chennai Super Kings",
+            "score": 125,
+            "wickets": 9,
+            "overs": 20
+        },
+        "matchStatus": "win",
+        "venueId": "v10",
+        "date": "26/05/2013",
+        "time": "20:00"
+    },
+    {
+        "id": "m23",
+        "seasonId": "s7",
+        "totalOvers": 20,
+        "priority": "qualifier",
+        "innings1": {
+            "teamId": "t5",
+            "teamName": "Kolkata Knight Riders",
+            "score": 163,
+            "wickets": 8,
+            "overs": 20
+        },
+        "innings2": {
+            "teamId": "t6",
+            "teamName": "Punjab Kings",
+            "score": 135,
+            "wickets": 8,
+            "overs": 20
+        },
+        "matchStatus": "win",
+        "venueId": "v10",
+        "date": "28/05/2014",
+        "time": "16:00"
+    },
+    {
+        "id": "m24",
+        "seasonId": "s7",
+        "totalOvers": 20,
+        "priority": "eliminator",
+        "innings1": {
+            "teamId": "t1",
+            "teamName": "Mumbai Indians",
+            "score": 173,
+            "wickets": 8,
+            "overs": 20
+        },
+        "innings2": {
+            "teamId": "t7",
+            "teamName": "Chennai Super Kings",
+            "score": 176,
+            "wickets": 3,
+            "overs": 18.4
+        },
+        "matchStatus": "win",
+        "venueId": "v11",
+        "date": "28/05/2014",
+        "time": "20:00"
+    },
+    {
+        "id": "m25",
+        "seasonId": "s7",
+        "totalOvers": 20,
+        "priority": "qualifier",
+        "innings1": {
+            "teamId": "t6",
+            "teamName": "Punjab Kings",
+            "score": 226,
+            "wickets": 6,
+            "overs": 20
+        },
+        "innings2": {
+            "teamId": "t7",
+            "teamName": "Chennai Super Kings",
+            "score": 202,
+            "wickets": 7,
+            "overs": 20
+        },
+        "matchStatus": "win",
+        "venueId": "v3",
+        "date": "30/05/2014",
+        "time": "20:00"
+    },
+    {
+        "id": "m26",
+        "seasonId": "s7",
+        "totalOvers": 20,
+        "priority": "final",
+        "innings1": {
+            "teamId": "t6",
+            "teamName": "Punjab Kings",
+            "score": 199,
+            "wickets": 4,
+            "overs": 20
+        },
+        "innings2": {
+            "teamId": "t5",
+            "teamName": "Kolkata Knight Riders",
+            "score": 200,
+            "wickets": 7,
+            "overs": 19.3
+        },
+        "matchStatus": "win",
+        "venueId": "v1",
+        "date": "01/06/2014",
+        "time": "20:00"
+    },
+    {
+        "id": "m27",
+        "seasonId": "s8",
+        "totalOvers": 20,
+        "priority": "qualifier",
+        "innings1": {
+            "teamId": "t1",
+            "teamName": "Mumbai Indians",
+            "score": 187,
+            "wickets": 6,
+            "overs": 20
+        },
+        "innings2": {
+            "teamId": "t7",
+            "teamName": "Chennai Super Kings",
+            "score": 162,
+            "wickets": 10,
+            "overs": 19
+        },
+        "matchStatus": "win",
+        "venueId": "v3",
+        "date": "19/05/2015",
+        "time": "20:00"
+    },
+    {
+        "id": "m28",
+        "seasonId": "s8",
+        "totalOvers": 20,
+        "priority": "eliminator",
+        "innings1": {
+            "teamId": "t4",
+            "teamName": "Royal Challengers Bangalore",
+            "score": 180,
+            "wickets": 4,
+            "overs": 20
+        },
+        "innings2": {
+            "teamId": "t8",
+            "teamName": "Rajasthan Royals",
+            "score": 109,
+            "wickets": 10,
+            "overs": 19
+        },
+        "matchStatus": "win",
+        "venueId": "v8",
+        "date": "20/05/2015",
+        "time": "20:00"
+    },
+    {
+        "id": "m29",
+        "seasonId": "s8",
+        "totalOvers": 20,
+        "priority": "qualifier",
+        "innings1": {
+            "teamId": "t4",
+            "teamName": "Royal Challengers Bangalore",
+            "score": 139,
+            "wickets": 8,
+            "overs": 20
+        },
+        "innings2": {
+            "teamId": "t7",
+            "teamName": "Chennai Super Kings",
+            "score": 140,
+            "wickets": 7,
+            "overs": 19.5
+        },
+        "matchStatus": "win",
+        "venueId": "v12",
+        "date": "22/05/2015",
+        "time": "20:00"
+    },
+    {
+        "id": "m30",
+        "seasonId": "s8",
+        "totalOvers": 20,
+        "priority": "final",
+        "innings1": {
+            "teamId": "t1",
+            "teamName": "Mumbai Indians",
+            "score": 202,
+            "wickets": 5,
+            "overs": 20
+        },
+        "innings2": {
+            "teamId": "t7",
+            "teamName": "Chennai Super Kings",
+            "score": 161,
+            "wickets": 8,
+            "overs": 20
+        },
+        "matchStatus": "win",
+        "venueId": "v10",
+        "date": "24/05/2015",
+        "time": "20:00"
+    },
+    {
+        "id": "m31",
+        "seasonId": "s9",
+        "totalOvers": 20,
+        "priority": "qualifier",
+        "innings1": {
+            "teamId": "t12",
+            "teamName": "Gujrat Lions",
+            "score": 158,
+            "wickets": 10,
+            "overs": 20
+        },
+        "innings2": {
+            "teamId": "t4",
+            "teamName": "Royal Challengers Bangalore",
+            "score": 159,
+            "wickets": 6,
+            "overs": 18.2
+        },
+        "matchStatus": "win",
+        "venueId": "v11",
+        "date": "24/05/2016",
+        "time": "20:00"
+    },
+    {
+        "id": "m32",
+        "seasonId": "s9",
+        "totalOvers": 20,
+        "priority": "eliminator",
+        "innings1": {
+            "teamId": "t3",
+            "teamName": "Sunrisers Hyderabad",
+            "score": 162,
+            "wickets": 8,
+            "overs": 20
+        },
+        "innings2": {
+            "teamId": "t5",
+            "teamName": "Kolkata Knight Riders",
+            "score": 140,
+            "wickets": 9,
+            "overs": 20
+        },
+        "matchStatus": "win",
+        "venueId": "v9",
+        "date": "25/05/2016",
+        "time": "20:00"
+    },
+    {
+        "id": "m33",
+        "seasonId": "s9",
+        "totalOvers": 20,
+        "priority": "qualifier",
+        "innings1": {
+            "teamId": "t12",
+            "teamName": "Gujrat Lions",
+            "score": 162,
+            "wickets": 7,
+            "overs": 20
+        },
+        "innings2": {
+            "teamId": "t3",
+            "teamName": "Sunrisers Hyderabad",
+            "score": 163,
+            "wickets": 6,
+            "overs": 19.2
+        },
+        "matchStatus": "win",
+        "venueId": "v9",
+        "date": "27/05/2016",
+        "time": "20:00"
+    },
+    {
+        "id": "m34",
+        "seasonId": "s9",
+        "totalOvers": 20,
+        "priority": "final",
+        "innings1": {
+            "teamId": "t3",
+            "teamName": "Sunrisers Hyderabad",
+            "score": 208,
+            "wickets": 7,
+            "overs": 20
+        },
+        "innings2": {
+            "teamId": "t4",
+            "teamName": "Royal Challengers Bangalore",
+            "score": 200,
+            "wickets": 7,
+            "overs": 20
+        },
+        "matchStatus": "win",
+        "venueId": "v1",
+        "date": "29/05/2016",
+        "time": "20:00"
+    },
+    {
+        "id": "m35",
+        "seasonId": "s10",
+        "totalOvers": 20,
+        "priority": "qualifier",
+        "innings1": {
+            "teamId": "t13",
+            "teamName": "Rising Pune Supergiant",
+            "score": 162,
+            "wickets": 4,
+            "overs": 20
+        },
+        "innings2": {
+            "teamId": "t1",
+            "teamName": "Mumbai Indians",
+            "score": 142,
+            "wickets": 9,
+            "overs": 20
+        },
+        "matchStatus": "win",
+        "venueId": "v1",
+        "date": "16/05/2017",
+        "time": "20:00"
+    },
+    {
+        "id": "m36",
+        "seasonId": "s10",
+        "totalOvers": 20,
+        "priority": "eliminator",
+        "innings1": {
+            "teamId": "t3",
+            "teamName": "Sunrisers Hyderabad",
+            "score": 128,
+            "wickets": 7,
+            "overs": 20
+        },
+        "innings2": {
+            "teamId": "t5",
+            "teamName": "Kolkata Knight Riders",
+            "score": 48,
+            "wickets": 3,
+            "overs": 5.2
+        },
+        "matchStatus": "dls",
+        "won": "t5",
+        "venueId": "v1",
+        "date": "17/05/2017",
+        "time": "20:00"
+    },
+    {
+        "id": "m37",
+        "seasonId": "s10",
+        "totalOvers": 20,
+        "priority": "qualifier",
+        "innings1": {
+            "teamId": "t5",
+            "teamName": "Kolkata Knight Riders",
+            "score": 107,
+            "wickets": 10,
+            "overs": 18.5
+        },
+        "innings2": {
+            "teamId": "t1",
+            "teamName": "Mumbai Indians",
+            "score": 111,
+            "wickets": 4,
+            "overs": 14.3
+        },
+        "matchStatus": "win",
+        "venueId": "v1",
+        "date": "19/05/2017",
+        "time": "20:00"
+    },
+    {
+        "id": "m38",
+        "seasonId": "s10",
+        "totalOvers": 20,
+        "priority": "final",
+        "innings1": {
+            "teamId": "t1",
+            "teamName": "Mumbai Indians",
+            "score": 129,
+            "wickets": 8,
+            "overs": 20
+        },
+        "innings2": {
+            "teamId": "t13",
+            "teamName": "Rising Pune Supergiant",
+            "score": 128,
+            "wickets": 5,
+            "overs": 20
+        },
+        "matchStatus": "win",
+        "venueId": "v13",
+        "date": "21/05/2017",
+        "time": "20:00"
+    },
+    {
+        "id": "m39",
+        "seasonId": "s11",
+        "totalOvers": 20,
+        "priority": "qualifier",
+        "innings1": {
+            "teamId": "t3",
+            "teamName": "Sunrisers Hyderabad",
+            "score": 139,
+            "wickets": 7,
+            "overs": 20
+        },
+        "innings2": {
+            "teamId": "t7",
+            "teamName": "Chennai Super Kings",
+            "score": 140,
+            "wickets": 8,
+            "overs": 19.1
+        },
+        "matchStatus": "win",
+        "venueId": "v3",
+        "date": "22/05/2018",
+        "time": "20:00"
+    },
+    {
+        "id": "m40",
+        "seasonId": "s11",
+        "totalOvers": 20,
+        "priority": "eliminator",
+        "innings1": {
+            "teamId": "t5",
+            "teamName": "Kolkata Knight Riders",
+            "score": 169,
+            "wickets": 7,
+            "overs": 20
+        },
+        "innings2": {
+            "teamId": "t8",
+            "teamName": "Rajasthan Royals",
+            "score": 144,
+            "wickets": 4,
+            "overs": 20
+        },
+        "matchStatus": "win",
+        "venueId": "v10",
+        "date": "23/05/2018",
+        "time": "19:00"
+    },
+    {
+        "id": "m41",
+        "seasonId": "s11",
+        "totalOvers": 20,
+        "priority": "qualifier",
+        "innings1": {
+            "teamId": "t3",
+            "teamName": "Sunrisers Hyderabad",
+            "score": 174,
+            "wickets": 7,
+            "overs": 20
+        },
+        "innings2": {
+            "teamId": "t5",
+            "teamName": "Kolkata Knight Riders",
+            "score": 160,
+            "wickets": 9,
+            "overs": 20
+        },
+        "matchStatus": "win",
+        "venueId": "v10",
+        "date": "25/05/2018",
+        "time": "19:00"
+    },
+    {
+        "id": "m42",
+        "seasonId": "s11",
+        "totalOvers": 20,
+        "priority": "qualifier",
+        "innings1": {
+            "teamId": "t3",
+            "teamName": "Sunrisers Hyderabad",
+            "score": 174,
+            "wickets": 7,
+            "overs": 20
+        },
+        "innings2": {
+            "teamId": "t5",
+            "teamName": "Kolkata Knight Riders",
+            "score": 160,
+            "wickets": 9,
+            "overs": 20
+        },
+        "matchStatus": "win",
+        "venueId": "v10",
+        "date": "25/05/2018",
+        "time": "19:00"
+    },
+    {
+        "id": "m44",
+        "seasonId": "s11",
+        "totalOvers": 20,
+        "priority": "final",
+        "innings1": {
+            "teamId": "t7",
+            "teamName": "Chennai Super Kings",
+            "score": 181,
+            "wickets": 2,
+            "overs": 20
+        },
+        "innings2": {
+            "teamId": "t3",
+            "teamName": "Sunrisers Hyderabad",
+            "score": 178,
+            "wickets": 6,
+            "overs": 20
+        },
+        "matchStatus": "win",
+        "venueId": "v3",
+        "date": "27/05/2018",
+        "time": "19:00"
+    },
+    {
+        "id": "m45",
+        "seasonId": "s12",
+        "totalOvers": 20,
+        "priority": "qualifier",
+        "innings1": {
+            "teamId": "t7",
+            "teamName": "Chennai Super Kings",
+            "score": 131,
+            "wickets": 4,
+            "overs": 20
+        },
+        "innings2": {
+            "teamId": "t1",
+            "teamName": "Mumbai Indians",
+            "score": 132,
+            "wickets": 4,
+            "overs": 18.3
+        },
+        "matchStatus": "win",
+        "venueId": "v7",
+        "date": "07/05/2018",
+        "time": "19:30"
+    },
+    {
+        "id": "m46",
+        "seasonId": "s12",
+        "totalOvers": 20,
+        "priority": "eliminator",
+        "innings1": {
+            "teamId": "t3",
+            "teamName": "Sunrisers Hyderabad",
+            "score": 162,
+            "wickets": 8,
+            "overs": 20
+        },
+        "innings2": {
+            "teamId": "t2",
+            "teamName": "Delhi Capitals",
+            "score": 165,
+            "wickets": 8,
+            "overs": 19.5
+        },
+        "matchStatus": "win",
+        "venueId": "v14",
+        "date": "08/05/2018",
+        "time": "19:30"
+    },
+    {
+        "id": "m47",
+        "seasonId": "s12",
+        "totalOvers": 20,
+        "priority": "qualifier",
+        "innings1": {
+            "teamId": "t2",
+            "teamName": "Delhi Capitals",
+            "score": 147,
+            "wickets": 9,
+            "overs": 20
+        },
+        "innings2": {
+            "teamId": "t7",
+            "teamName": "Chennai Super Kings",
+            "score": 151,
+            "wickets": 4,
+            "overs": 19
+        },
+        "matchStatus": "win",
+        "venueId": "v14",
+        "date": "10/05/2018",
+        "time": "19:30"
+    },
+    {
+        "id": "m48",
+        "seasonId": "s12",
+        "totalOvers": 20,
+        "priority": "final",
+        "innings1": {
+            "teamId": "t1",
+            "teamName": "Mumbai Indians",
+            "score": 149,
+            "wickets": 8,
+            "overs": 20
+        },
+        "innings2": {
+            "teamId": "t7",
+            "teamName": "Chennai Super Kings",
+            "score": 148,
+            "wickets": 7,
+            "overs": 20
+        },
+        "matchStatus": "win",
+        "venueId": "v13",
+        "date": "12/05/2018",
+        "time": "19:30"
+    },
+    {
+        "id": "m49",
+        "seasonId": "s13",
+        "totalOvers": 20,
+        "priority": "qualifier",
+        "innings1": {
+            "teamId": "t1",
+            "teamName": "Mumbai Indians",
+            "score": 200,
+            "wickets": 5,
+            "overs": 20
+        },
+        "innings2": {
+            "teamId": "t2",
+            "teamName": "Delhi Capitals",
+            "score": 143,
+            "wickets": 8,
+            "overs": 20
+        },
+        "matchStatus": "win",
+        "venueId": "v15",
+        "date": "05/11/2018",
+        "time": "19:30"
+    },
+    {
+        "id": "m50",
+        "seasonId": "s13",
+        "totalOvers": 20,
+        "priority": "eliminator",
+        "innings1": {
+            "teamId": "t4",
+            "teamName": "Royal Challengers Bangalore",
+            "score": 131,
+            "wickets": 7,
+            "overs": 20
+        },
+        "innings2": {
+            "teamId": "t3",
+            "teamName": "Sunrisers Hyderabad",
+            "score": 132,
+            "wickets": 4,
+            "overs": 19.4
+        },
+        "matchStatus": "win",
+        "venueId": "v16",
+        "date": "06/11/2018",
+        "time": "19:30"
+    },
+    {
+        "id": "m51",
+        "seasonId": "s13",
+        "totalOvers": 20,
+        "priority": "qualifier",
+        "innings1": {
+            "teamId": "t2",
+            "teamName": "Delhi Capitals",
+            "score": 189,
+            "wickets": 3,
+            "overs": 20
+        },
+        "innings2": {
+            "teamId": "t3",
+            "teamName": "Sunrisers Hyderabad",
+            "score": 172,
+            "wickets": 8,
+            "overs": 20
+        },
+        "matchStatus": "win",
+        "venueId": "v16",
+        "date": "08/11/2018",
+        "time": "19:30"
+    },
+    {
+        "id": "m51",
+        "seasonId": "s13",
+        "totalOvers": 20,
+        "priority": "final",
+        "innings1": {
+            "teamId": "t2",
+            "teamName": "Delhi Capitals",
+            "score": 156,
+            "wickets": 7,
+            "overs": 20
+        },
+        "innings2": {
+            "teamId": "t1",
+            "teamName": "Mumbai Indians",
+            "score": 157,
+            "wickets": 5,
+            "overs": 18.4
+        },
+        "matchStatus": "win",
+        "venueId": "v15",
+        "date": "10/11/2018",
+        "time": "19:30"
+    }
+]

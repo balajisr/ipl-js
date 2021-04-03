@@ -1,0 +1,82 @@
+[
+    {
+        "id": "v1",
+        "name": "M. Chinnaswamy Stadium",
+        "city": "Bengaluru, Karnataka"
+    },
+    {
+        "id": "v2",
+        "name": "IS Bindra Stadium",
+        "city": "Mohali, Punjab"
+    },
+    {
+        "id": "v3",
+        "name": "Wankhede Stadium",
+        "city": "Mumbai, Maharashtra"
+    },
+    {
+        "id": "v4",
+        "name": "DY Patil Stadium, Navi Mumbai",
+        "city": "Mumbai, Maharashtra"
+    },
+    {
+        "id": "v5",
+        "name": "Supersport Park",
+        "city": "Centurion, South Africa"
+    },
+    {
+        "id": "v6",
+        "name": "New Wanderers Stadium",
+        "city": "Johannesburg, South Africa"
+    },
+    {
+        "id": "v7",
+        "name": "M.A. Chidambaram Stadium",
+        "city": "Chennai, Tamil Nadu"
+    },
+    {
+        "id": "v8",
+        "name": "Maharashtra Cricket Association's International Stadium",
+        "city": "Pune, Maharashtra"
+    },
+    {
+        "id": "v9",
+        "name": "Arun Jaitley Stadium",
+        "city": "Delhi, Delhi"
+    },
+    {
+        "id": "v10",
+        "name": "Eden Gardens",
+        "city": "Kolkata, West Bengal"
+    },
+    {
+        "id": "v11",
+        "name": "Brabourne Stadium",
+        "city": "Mumbai, Maharashtra"
+    },
+    {
+        "id": "v12",
+        "name": "JSCA International Cricket Stadium",
+        "city": "Ranchi, Jharkhand"
+    },
+    {
+        "id": "v13",
+        "name": "Rajiv Gandhi Intl. Cricket Stadium",
+        "city": "Hyderabad, Telangana"
+    },
+    {
+        "id": "v14",
+        "name": "ACA-VDCA Stadium",
+        "city": "Visakhapatnam, Andhra Pradesh"
+    },
+    {
+        "id": "v15",
+        "name": "Dubai International Cricket Stadium",
+        "city": "Dubai, UAE"
+    },
+    {
+        "id": "v16",
+        "name": "Zayed Cricket Stadium",
+        "city": "Abu Dhabi, UAE"
+    }
+]

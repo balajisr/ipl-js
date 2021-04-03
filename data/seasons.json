@@ -1,0 +1,80 @@
+[
+    {
+        "id": "s1",
+        "year": 2008,
+        "teamsParticipated": ["t1","t2","t4","t5","t6","t7","t8","t9"],
+        "champion": "t8"
+    },
+    {
+        "id": "s2",
+        "year": 2009,
+        "teamsParticipated": ["t1","t2","t4","t5","t6","t7","t8","t9"],
+        "champion": "t9"
+    },
+    {
+        "id": "s3",
+        "year": 2010,
+        "teamsParticipated": ["t1","t2","t4","t5","t6","t7","t8","t9"],
+        "champion": "t7"
+    },
+    {
+        "id": "s4",
+        "year": 2011,
+        "teamsParticipated": ["t1","t2","t4","t5","t6","t7","t8","t9","t10","t11"],
+        "champion": "t7"
+    },
+    {
+        "id": "s5",
+        "year": 2012,
+        "teamsParticipated": ["t1","t2","t4","t5","t6","t7","t8","t9","t11"],
+        "champion": "t5"
+    },
+    {
+        "id": "s6",
+        "year": 2013,
+        "teamsParticipated": ["t1","t2","t3","t4","t5","t6","t7","t8","t11"],
+        "champion": "t1"
+    },
+    {
+        "id": "s7",
+        "year": 2014,
+        "teamsParticipated": ["t1","t2","t3","t4","t5","t6","t7","t8"],
+        "champion": "t8"
+    },
+    {
+        "id": "s8",
+        "year": 2015,
+        "teamsParticipated": ["t1","t2","t4","t5","t6","t7","t8","t9"],
+        "champion": "t1"
+    },
+    {
+        "id": "s9",
+        "year": 2016,
+        "teamsParticipated": ["t9","t12","t5","t1","t6","t13","t4","t3"],
+        "champion": "t3"
+    },
+    {
+        "id": "s10",
+        "year": 2017,
+        "teamsParticipated": ["t9","t12","t5","t1","t6","t13","t4","t3"],
+        "champion": "t1"
+    },
+    {
+        "id": "s11",
+        "year": 2018,
+        "teamsParticipated": ["t7","t2","t5","t6","t8","t4","t1","t3"],
+        "champion": "t7"
+    },
+    {
+        "id": "s12",
+        "year": 2019,
+        "teamsParticipated": ["t7","t2","t5","t6","t8","t4","t1","t3"],
+        "champion": "t1"
+    },
+    {
+        "id": "s13",
+        "year": 2020,
+        "teamsParticipated": ["t7","t2","t5","t6","t8","t4","t1","t3"],
+        "champion": "t1"
+    }
+]
